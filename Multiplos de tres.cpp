@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/* atividade 2_questão 2 */
 int main(){
 
 	int num, mult2=0 ;
